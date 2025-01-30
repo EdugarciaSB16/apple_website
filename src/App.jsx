@@ -1,8 +1,13 @@
+import Hero from './components/Hero';
+import Navbar from './components/Navbar';
+import Highlights from './components/Highlights';
 const App = () => {
     return (
-        <div>
-            <h1 className="text-3xl font-bold underline">Apple iPhone</h1>
-        </div>
+        <main>
+            <Navbar />
+            <Hero />
+            <Highlights />
+        </main>
     );
 };
 
