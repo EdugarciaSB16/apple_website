@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgeekzilla.tech%2Fhome%2Fwp-content%2Fuploads%2F2023%2F09%2Fimage-104.png&f=1&nofb=1&ipt=b162a79202960c77a776dcecb13bbd92077fcf42bbaddeb5411b5779d2e7f92d&ipo=images" alt="Project Banner">
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fmax_1200%2F34b5bf180145769.6505ae7623131.jpg&f=1&nofb=1&ipt=34af191a4c7f48d1d7d218e2b3006aa570269180308053a2c726eea8a188ded8&ipo=images" alt="Project Banner">
   <br />
 
   <div>
