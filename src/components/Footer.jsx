@@ -8,12 +8,12 @@ const Footer = () => {
                 <div>
                     <p className="font-semibold text-gray text-xs">
                         More ways to shop:{' '}
-                        <span className="underline text-blue">
+                        <span className="underline text-blue cursor-pointer">
                             {' '}
                             Find an Apple Store or other retailer{' '}
                         </span>
                         or{' '}
-                        <span className="underline text-blue">
+                        <span className="underline text-blue cursor-pointer">
                             other retailer
                         </span>{' '}
                         near you.
@@ -31,7 +31,7 @@ const Footer = () => {
                         {footerLinks.map((item, index) => (
                             <p
                                 key={index}
-                                className="font-semibold text-gray text-xs"
+                                className="font-semibold text-gray text-xs cursor-pointer"
                             >
                                 {item}{' '}
                                 {index !== footerLinks.length - 1 && (
